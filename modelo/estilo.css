@@ -9,7 +9,7 @@ header {
 }
 
 section {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
     padding: 15px;
     width: 500px;
@@ -20,4 +20,5 @@ section {
 footer {
     color: white;
     text-align: center;
+    font-style: italic;
 }
